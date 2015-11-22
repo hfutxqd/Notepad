@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_announce"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_announce"/>
+    <item
+        android:id="@+id/action_update"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_update"/>
+    <item
+        android:id="@+id/action_suport"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_suport"/>
+
+</menu>
+<!-- From: file:/E:/MyProgram/Android_New/Notepad/app/src/main/res/menu/about.xml -->

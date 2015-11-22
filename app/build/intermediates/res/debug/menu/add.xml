@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item 
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_save"
+        />
+    <item 
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/action_clear"
+        />
+
+</menu>
+<!-- From: file:/E:/MyProgram/Android_New/Notepad/app/src/main/res/menu/add.xml -->

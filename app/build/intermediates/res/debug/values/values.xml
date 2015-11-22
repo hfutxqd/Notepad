@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <!-- From: file:/E:/MyProgram/Android_New/Notepad/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/MyProgram/Android_New/Notepad/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <!-- From: file:/E:/MyProgram/Android_New/Notepad/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_about">关于</string>
+    <string name="action_add">添加</string>
+    <string name="action_announce">免责声明</string>
+    <string name="action_clear">清空</string>
+    <string name="action_del">删除</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_export">导出到文本</string>
+    <string name="action_m_all">全选</string>
+    <string name="action_m_export">导出</string>
+    <string name="action_m_opp">反选</string>
+    <string name="action_manager">管理</string>
+    <string name="action_settings">设置</string>
+    <string name="action_suport">支持我</string>
+    <string name="action_update">更新说明</string>
+    <string name="announce"><b>一、版权声明</b>\n本应用为免费软件，但本应用作者拥有应用完全的著作权，发行权等一切权利。
+        任何组织和个人不得以盈利为目的，对其进行反编译、修改、植入插件等行为。\n注：\n本应用的应用图标、背景来源于网络，本应用作者对其没有任何版权，
+        其版权归原作者所有。如有疑问请联系作者。\n<b>二、隐私声明</b>\n本应用不会收集、上传任何用户信息\n<b>三、安全声明</b>        \n本应用不能保证用户数据的安全性、完整性。不能把本应用作为唯一的数据记录工具，若因为使用本应用而导致的数据丢失
+        、隐私泄露等情况与本人无关。</string>
+    <string name="app_name">Notepad</string>
+    <string name="author">作者: 冰迹\u0026风痕</string>
+    <string name="cancel">取消</string>
+    <string name="content">在这里输内容</string>
+    <string name="copy_right">©保留所有权利 2014</string>
+    <string name="default_1_content">Notepad正式发布啦！这是一款便签类应用，我相信它能成为您学习、生活的好帮手。下面介绍一下使用技巧。\n1.在主界面下，长按某一条可以弹出针对该条记录的操作\n2.点击右上角的菜单在选择管理可以进行批量操作哦\n3.在编辑界面下，点击右上角的＂❌＂，如果有编辑内容时，会清空编辑内容，如果没有编辑内容则会关闭编辑界面\n4. 在编辑界面下，采用非第三条的方式关闭编辑界面后，编辑的内容会被临时保存哦！\n5.以此为模板新增和编辑是不同的功能哦，它们的区别在于时间\n6.大家可以点击关于来支持我！</string>
+    <string name="default_1_title">Notepad使用说明</string>
+    <string name="default_2_content">版本：1.10\n增加导出到文本文件的功能，支持批量操作哦！导出的路径为存储卡的Notepad文件夹</string>
+    <string name="default_2_title">Notepad1.10版本更新说明</string>
+    <string name="default_3_content">版本：1.12\n更改默认主题，优化显示\n这次开始有彩蛋了哦！看谁能发现呢</string>
+    <string name="default_3_title">Notepad1.12版本更新说明</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="oicq">QQ: 371314643</string>
+    <string name="save">保存</string>
+    <string name="suport">首先感谢您对作者的支持，本软件虽然为免费软件，并且作者为保证用户体验，一直拒绝在应用中加入广告。但是，应用开发是需要成本和精力的，如果您愿意为作者提供一定的资金支持，请按以下方式联系作者：\n<b>QQ: 371314643</b>\n有了您的资金，作者可以开发出更多更优秀的软件。\n再次感谢！</string>
+    <string name="title">在这里输入标题（可不输）</string>
+    <string name="title_activity_about">关于</string>
+    <string name="title_activity_add">添加</string>
+    <string name="title_activity_manager">管理</string>
+    <string name="title_activity_recycler_view_activoty">RecyclerViewActivoty</string>
+    <string name="title_activity_view">浏览</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_list">Items</string>
+    <string name="update"><b>版本：1.00</b>\nNotepad体验版发布\n<b>版本：1.01</b>\n修复部分手机无法打开，出现”很抱歉，Notepad已停止运行“的问题\n<b>版本：1.02</b>\n修复首次打开Notepad时，点击新增再点击右上角的”X“出现停止运行的警告\n<b>版本：1.03</b>\n优化显示\n<b>版本：1.10</b>\n加入导出到文本的功能，支持批量导出到文本。导出路径为储存卡的Notepad文件夹\n<b>版本：1.12</b>\n更改默认主题，优化显示。这次有彩蛋了哦！</string>
+    <string name="version">版本号: 1.12</string>
+    <!-- From: file:/E:/MyProgram/Android_New/Notepad/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

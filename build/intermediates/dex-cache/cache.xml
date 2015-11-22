@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\MyProgram\Android_New\Notepad\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e12f2fe518229364615ac08b0aec6796c192093">
+        <dex dex="E:\MyProgram\Android_New\Notepad\app\build\intermediates\pre-dexed\debug\Msc-664663f4a5bd2dbf27bd844d042d63ea70b1a2f7.jar" />
+    </item>
+    <item
+        jar="E:\MyProgram\Android_New\Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\MyProgram\Android_New\Notepad\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c24a1e9b3a40c80bf4c19b61d38684ff4eb76cdb.jar" />
+    </item>
+    <item
+        jar="E:\MyProgram\Android_New\Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\MyProgram\Android_New\Notepad\app\build\intermediates\pre-dexed\debug\classes-441d7b6c2e883a61be62995a0caaf2546103e11b.jar" />
+    </item>
+    <item
+        jar="C:\Softwere\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\MyProgram\Android_New\Notepad\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-3c21287bfd18285274836d27826cbcb0bff3eb7c.jar" />
+    </item>
+    <item
+        jar="E:\MyProgram\Android_New\Notepad\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\MyProgram\Android_New\Notepad\app\build\intermediates\pre-dexed\debug\classes-ad85d7efc8e72327d17b76ec8695c50b777fb18d.jar" />
+    </item>
+
+</items>
